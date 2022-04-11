@@ -7,4 +7,4 @@
 // import './component-intermediate/state-study-3'
 // import './component-intermediate/counter-demo'
 // import './component-intermediate/manipulate-list'
-import './component-intermediate/todo-app-demo'
+import './component-intermediate/timer-demo'
